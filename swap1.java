@@ -1,5 +1,5 @@
 import java.until.*;
-class swap
+class swap1
 {
 public ststic void main(string args[])
 {
